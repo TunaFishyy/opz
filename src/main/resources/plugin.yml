@@ -1,0 +1,4 @@
+name: opuzen
+version: '${project.version}'
+main: io.github.tunafishyy.opuzen.Opuzen
+api-version: '1.20'
